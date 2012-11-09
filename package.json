@@ -1,0 +1,17 @@
+{
+  "name": "polyhydra",
+  "description": "nodejs multiprocessing framework",
+  "version": "0.0.0",
+  "author": "Van Nguyen <the.gol.effect@gmail.com>",
+  "repository": "git://github.com/thegoleffect/polyhydra",
+  "main": "index",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "http://github.com/walmartlabs/hapi/raw/master/LICENSE"
+    }
+  ]
+}
